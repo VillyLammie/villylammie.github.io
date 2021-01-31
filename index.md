@@ -3,7 +3,7 @@
 ---
 
 
-# Villy Lammie's GithUb Page
+# Villy Lammie's Github Page
 
 Stay tuned for more to come as I build my knowledge and portfolio with cool projects...
 
