@@ -13,4 +13,4 @@ Stay tuned for more to come as I build my knowledge and portfolio with cool proj
 
 ## Time Series Decomposition Project
 
-- [TimeSeriesDecomposition](/timeseries/index.md)
+- [TimeSeriesDecomposition](/timeseries/timeseries.md)
