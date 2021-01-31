@@ -8,3 +8,6 @@ Click below to access an HTML and Jupyter file of an example timeseries decompos
 - [TimeSeriesDecomposition(html)](TimeSeriesDecomposition.html)
 
 - [TimeSeriesDecomposition(ipynb)](TimeSeriesDecomposition.ipynb)
+
+
+[Return to main meny](/index.md
