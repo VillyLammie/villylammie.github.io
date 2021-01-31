@@ -10,4 +10,4 @@ Click below to access an HTML and Jupyter file of an example timeseries decompos
 - [TimeSeriesDecomposition(ipynb)](TimeSeriesDecomposition.ipynb)
 
 
-[Return to main meny](/index.md
+[Return to main meny](/index.md)
