@@ -4,7 +4,7 @@
 
 
 # Villy Lammie's Github Page
-![My Picture](/pics/)
+![My Picture](/pics/Villy4-RT.jpg)
 
 Stay tuned for more to come as I build my knowledge and portfolio with cool projects...
 
